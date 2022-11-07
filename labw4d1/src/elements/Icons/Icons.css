@@ -1,0 +1,29 @@
+.icons{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-items: flex-start;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-content: flex-start;
+    color: rgba(30,35,51,255);
+    width: 25%;
+}
+.icons img{
+width: 150px;
+}
+.icons h3{
+color: rgb(68, 79, 115);
+font-size: 1.7rem;
+margin-bottom: 0;
+}
+.icons p{
+    color: rgba(30,35,51, 0.6);
+    font-weight: 600;
+    font-size: 1.2rem;
+    line-height: 1rem;
+    max-height: 3rem;
+    width: 75%;
+    line-height: 120%;
+
+    }
